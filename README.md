@@ -1,6 +1,6 @@
 # Shugo.GG Auto-Launch
 
-A tiny Windows script that opens the [Shugo.GG](https://shugo.gg) companion app when **Aion 2** starts and closes it when the game closes. Pure Python standard library, nothing to `pip install`.
+A tiny Windows script that opens the [Shugo.GG](https://shugo.gg/app) companion app when **Aion 2** starts and closes it when the game closes. Pure Python standard library, nothing to `pip install`.
 
 - Game starts → Shugo opens (within ~5 seconds)
 - Game closes → Shugo closes (~10 seconds later)
